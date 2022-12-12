@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllLibrary", "DllLibrary\DllLibrary.csproj", "{2FD06A31-44E0-40FA-AD57-77BC2A8608EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College", "College\College.csproj", "{ECA4E6B0-61EC-49B3-A7B8-E90A4828B910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD06A31-44E0-40FA-AD57-77BC2A8608EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD06A31-44E0-40FA-AD57-77BC2A8608EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD06A31-44E0-40FA-AD57-77BC2A8608EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD06A31-44E0-40FA-AD57-77BC2A8608EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA4E6B0-61EC-49B3-A7B8-E90A4828B910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA4E6B0-61EC-49B3-A7B8-E90A4828B910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA4E6B0-61EC-49B3-A7B8-E90A4828B910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA4E6B0-61EC-49B3-A7B8-E90A4828B910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322A8FBA-45BB-4619-9686-DF3320857CB5}
+	EndGlobalSection
+EndGlobal
